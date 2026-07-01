@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR5i0086/CK-KZ-jye/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 文昌延嗣經文昌延嗣經序孟子云不孝有三無後爲大善哉是言也知斯言之爲要則知延嗣經之不可少矣蓋天之生機本自不息而人乃有嗣有不嗣者以其人之善惡有殊而天之生機因而異耳然厯觀乏嗣之人半屬癡迷不悟溺於聲色貨利之場而於立心行已之要置若罔聞於是玉皇大天尊哀憫凡愚爰命帝君著斯經以垂世俾人於捧持之際猛然深省改其向日之非以歸於是將一心悔悟卽格天心心旣可以對諸天地而天地之生機卽在我矣又何慮嗣之不延乎倘僅以拜誦了事而於經中妙義徒口誦而弗心維則我帝君雖甚慈仁究亦無如之何也惟願覩斯經者咸以吾言爲藥石共樂休徵則幸甚矣時雍正甲寅孟冬朔文昌右弼天聾眞人降撰
+  hash: sha256:338d0baa6036173d6a09833bd90b2d65206789dc1e9fff793aec58397cc384ed
+  markers:
+  - {type: page-break, offset: 5, content: '', id: CK-KZ_KR5i0086_01p026a}
+metadata:
+  title: 文昌延嗣經
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 17:58:52.287863'
+  source:
+    repository: kanripo
+    path: KR5i0086/KR5i0086_001.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:dcd6dc33f6f933483f5ec1af280a0885eafbbfac08a4963302549e854b554ec7

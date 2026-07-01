@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR5i0086/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5i0086/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文昌延嗣經
+  date: '2015-08-29 17:58:52.287863'
+  source:
+    repository: kanripo
+    path: KR5i0086
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0086_001-YP-C.yaml, hash: 'sha256:b7eb6b0da19f4081dfa26001a584039812f8382ea1d61beb8dffaa42f14f4f70'}
+  - {seq: 2, filename: KR5i0086_002-YP-C.yaml, hash: 'sha256:0f1d32d78fd939eaca54dd32b0869aef1b0ef6bd13d92ff691fafd650f476eba'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0086_001-YP-C.markers.yaml, hash: 'sha256:d4451bffbde0dfd8a68268e25e1fe58b245b5445243234f49b8b8841aee91425'}
+  - {seq: 2, role: markers, filename: assets/KR5i0086_002-YP-C.markers.yaml, hash: 'sha256:961cd8e3504a77a559ec3eb896a623fdd8d557a0fdc33eb6d597672ea46fff43'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: YP-C_KR5i0086_25xingji-08-0035b
+    span:
+    - body
+    - 0
+    - 257
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: YP-C_KR5i0086_25xingji-08-0027a
+    span:
+    - body
+    - 0
+    - 3458
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:abc738b21a6e6939ee758ab29d2d76c75bffef57068d31be461b1b8a734b605a
